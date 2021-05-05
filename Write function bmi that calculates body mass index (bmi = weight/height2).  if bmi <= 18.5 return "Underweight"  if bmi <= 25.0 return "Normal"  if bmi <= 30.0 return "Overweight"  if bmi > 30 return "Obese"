@@ -6,3 +6,4 @@ std::string bmi(double w, double h)
   if(bmi <= 30.0) return "Overweight";
   return "Obese";
 }
+
